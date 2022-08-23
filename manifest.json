@@ -2,7 +2,7 @@
   "manifest_version": 2,
  
   "name": "UnRounder",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Sets all border radii to 0",
  
   "content_scripts": [{
