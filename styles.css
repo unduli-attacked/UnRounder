@@ -14,6 +14,14 @@ form {
   border-radius: 0 !important;
 }
 
+summary {
+	border-radius: 0 !important;
+}
+
+ul {
+	border-radius: 0 !important;
+}
+
 a {
   border-radius: 0 !important;
 }
